@@ -1,0 +1,13 @@
+bin/
+obj/
+*.swp
+*.swo
+build.xml
+default.properties
+gen/
+libs/
+local.properties
+makefile
+obj/
+proguard.cfg
+
