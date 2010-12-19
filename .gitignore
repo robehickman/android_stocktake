@@ -7,7 +7,6 @@ default.properties
 gen/
 libs/
 local.properties
-makefile
 obj/
 proguard.cfg
 
